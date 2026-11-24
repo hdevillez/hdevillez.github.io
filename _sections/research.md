@@ -1,5 +1,5 @@
 ---
-title: Research
+title: Research topics
 order: 1
 ---
 

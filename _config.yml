@@ -29,7 +29,31 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-theme: minima
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: "default"
+
+author:
+  name: "Henri Devillez"
+  avatar: "/assets/images/bio-photo.jpg"
+  bio: "Postdoctoral researcher in protocols security"
+  location: "Nancy, France"
+  links:
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "https://scholar.google.com/citations?hl=en&user=Gmhq4RkAAAAJ"
+    - label: "DBLP"
+      icon: "fas fa-fw fa-book"
+      url: "https://dblp.org/pid/295/4646.html"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/hdevillez"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/henri-devillez-9b1791125/"
+
+atom_feed:
+    hide: true
+
 plugins:
   - jekyll-feed
 collections:
