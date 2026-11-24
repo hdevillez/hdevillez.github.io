@@ -4,7 +4,6 @@
 
 layout: single
 author_profile: true
-title: Home
 ---
 
 I am a post-doctoral researcher, currently in the PESTO team at Inria Nancy.
